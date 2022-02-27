@@ -1,0 +1,34 @@
+.main-content__subscribe {
+  margin-bottom: 60px;
+}
+
+.subscribe__content {
+  background: #FDC332;
+  padding: 51px 46px 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.subscribe__title {
+  margin-bottom: 15px;
+}
+
+.subscribe__description {
+  max-width: 719px;
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.subscribe__button {
+  color: #fff;
+  background-color: #253131;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 12px 36px;
+  transition: background-color .3s;
+}
+
+.subscribe__button:hover {
+  background-color: #000;
+}

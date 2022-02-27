@@ -1,0 +1,26 @@
+.pager__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 128px;
+}
+
+.pager__item {
+  width: 48px;
+  height: 48px;
+  background-color: #cfcfcf;
+  transition: background-color .3s;
+}
+
+.pager__item:hover {
+  background-color: #FDC332;
+}
+
+.pager__link {
+  width: 100%;
+  height: 100%;
+  color: #253131;
+  line-height: 48px;
+  font-size: 24px;
+  text-align: center;
+}
