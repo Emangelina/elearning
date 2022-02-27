@@ -1,0 +1,15 @@
+.button {
+  display: inline-block;
+}
+
+.headline__button {
+  background-color: #FDC332;
+  padding: 15px 40px;
+  font-weight: 600;
+  font-size: 18px;
+  transition: background-color .3s;
+}
+
+.headline__button:hover {
+  background-color: #fff;
+}
