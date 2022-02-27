@@ -1,6 +1,7 @@
 .mentors {
   padding-top: 124px;
   padding-bottom: 142px;
+  background-image: linear-gradient(#fff, #F6F6F6 80%, #fff);
 }
 
 .mentors__content {

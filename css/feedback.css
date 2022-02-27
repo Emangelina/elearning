@@ -1,6 +1,7 @@
 .feedback {
   padding-top: 124px;
   padding-bottom: 122px;
+  background-image: linear-gradient(#fff 30%, #F6F6F6 75%, #fff 95%);
 }
 
 .feedback__content {
@@ -35,6 +36,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  background: #fff;
 }
 
 .single-feedback__text {

@@ -1,6 +1,7 @@
 .courses {
   padding-top: 123px;
   padding-bottom: 140px;
+  background-image: linear-gradient(#fff, #F6F6F6 70%, #fff 85%);
 }
 
 .courses__content {
